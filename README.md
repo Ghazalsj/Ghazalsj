@@ -3,10 +3,10 @@
 
 
 
-- 👋 Hi, I’m Ghazal Shahid
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Front-end Web development
-- 💞️ I’m looking to collaborate on potential collaborative projects 
+- 👋 Hi, I’m Ghazal Shahid.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning Front-end Web development.
+- 💞️ I’m looking to collaborate on potential collaborative projects.
 - 📫 How to reach me chimky345@gmail.com
 
 Connect with me
